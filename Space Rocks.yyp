@@ -3,6 +3,10 @@
   "resourceVersion": "1.6",
   "name": "Space Rocks",
   "resources": [
+    {"id":{"name":"spr_asteriod_huge","path":"sprites/spr_asteriod_huge/spr_asteriod_huge.yy",},"order":3,},
+    {"id":{"name":"spr_asteriod_small","path":"sprites/spr_asteriod_small/spr_asteriod_small.yy",},"order":1,},
+    {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
+    {"id":{"name":"spr_asteriod_med","path":"sprites/spr_asteriod_med/spr_asteriod_med.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
